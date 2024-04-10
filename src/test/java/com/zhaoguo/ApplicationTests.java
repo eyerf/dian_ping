@@ -1,7 +1,6 @@
 package com.zhaoguo;
 
 import com.zhaoguo.entity.Blog;
-import com.zhaoguo.entity.User;
 import com.zhaoguo.mapper.BlogMapper;
 import com.zhaoguo.mapper.UserMapper;
 import org.junit.jupiter.api.Test;
